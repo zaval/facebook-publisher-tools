@@ -1,0 +1,41 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BadFounder", "BadFounder\BadFounder.csproj", "{9BBBB48A-3CD4-446B-9B2C-F987248A6566}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InstantRemover", "InstantRemover\InstantRemover.csproj", "{5C4DD526-8E99-41F5-BF94-2A1E978A2949}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArticleRemover", "ArticleRemover\ArticleRemover.csproj", "{C9B84950-79F6-471F-A4A0-FF0A80494C76}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InstantFinder", "InstantFinder\InstantFinder.csproj", "{2C9DC252-62EA-42BA-B075-D202D72E9961}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TextImagesFinder", "TextImagesFinder\TextImagesFinder.csproj", "{781E6AA9-09CB-45A8-ACEF-A6293DFCD66F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9BBBB48A-3CD4-446B-9B2C-F987248A6566}.Debug|x86.ActiveCfg = Debug|x86
+		{9BBBB48A-3CD4-446B-9B2C-F987248A6566}.Debug|x86.Build.0 = Debug|x86
+		{9BBBB48A-3CD4-446B-9B2C-F987248A6566}.Release|x86.ActiveCfg = Release|x86
+		{9BBBB48A-3CD4-446B-9B2C-F987248A6566}.Release|x86.Build.0 = Release|x86
+		{5C4DD526-8E99-41F5-BF94-2A1E978A2949}.Debug|x86.ActiveCfg = Debug|x86
+		{5C4DD526-8E99-41F5-BF94-2A1E978A2949}.Debug|x86.Build.0 = Debug|x86
+		{5C4DD526-8E99-41F5-BF94-2A1E978A2949}.Release|x86.ActiveCfg = Release|x86
+		{5C4DD526-8E99-41F5-BF94-2A1E978A2949}.Release|x86.Build.0 = Release|x86
+		{C9B84950-79F6-471F-A4A0-FF0A80494C76}.Debug|x86.ActiveCfg = Debug|x86
+		{C9B84950-79F6-471F-A4A0-FF0A80494C76}.Debug|x86.Build.0 = Debug|x86
+		{C9B84950-79F6-471F-A4A0-FF0A80494C76}.Release|x86.ActiveCfg = Release|x86
+		{C9B84950-79F6-471F-A4A0-FF0A80494C76}.Release|x86.Build.0 = Release|x86
+		{2C9DC252-62EA-42BA-B075-D202D72E9961}.Debug|x86.ActiveCfg = Debug|x86
+		{2C9DC252-62EA-42BA-B075-D202D72E9961}.Debug|x86.Build.0 = Debug|x86
+		{2C9DC252-62EA-42BA-B075-D202D72E9961}.Release|x86.ActiveCfg = Release|x86
+		{2C9DC252-62EA-42BA-B075-D202D72E9961}.Release|x86.Build.0 = Release|x86
+		{781E6AA9-09CB-45A8-ACEF-A6293DFCD66F}.Debug|x86.ActiveCfg = Debug|x86
+		{781E6AA9-09CB-45A8-ACEF-A6293DFCD66F}.Debug|x86.Build.0 = Debug|x86
+		{781E6AA9-09CB-45A8-ACEF-A6293DFCD66F}.Release|x86.ActiveCfg = Release|x86
+		{781E6AA9-09CB-45A8-ACEF-A6293DFCD66F}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+EndGlobal
